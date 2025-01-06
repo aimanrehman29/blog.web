@@ -1,5 +1,6 @@
 import React from "react";
 import { Card, CardContent, CardTitle } from "../components/ui/card";
+import Image from "next/image";
 
 interface BlogCardProps {
   post: {
@@ -24,9 +25,11 @@ export default function BlogCard({
       } rounded-lg shadow-lg hover:shadow-xl transition-shadow duration-300`}
     >
       <div className="relative">
-        <img
+        <Image
           src={post.imageUrl}
           alt={post.title}
+          width={600}
+          height={400}
           className="w-full h-48 object-cover rounded-t-lg"
         />
         <div className="absolute inset-0 bg-black bg-opacity-50 opacity-0 hover:opacity-100 flex items-center justify-center rounded-t-lg transition-opacity">

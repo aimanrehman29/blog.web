@@ -54,10 +54,10 @@ Inspiring Content: Explore a variety of blog posts spanning topics like lifestyl
 Engaging Community: Join a vibrant community of readers and writers who share a love for thoughtful discussions and creative ideas.
 Platform for Creators: Publish your blogs, share your experiences, and connect with a wider audience.
 <br/><b className="text-3xl">Why Canvas Blog?</b><br/>
-The world is full of endless possibilities, and Canvas Blog is here to capture them. With every article and story, we aim to empower, educate, and entertain our readers. Our platform is designed to be intuitive and inviting, ensuring that whether you’re here to read or write, you feel right at home.
+The world is full of endless possibilities, and Canvas Blog is here to capture them. With every article and story, we aim to empower, educate, and entertain our readers. Our platform is designed to be intuitive and inviting, ensuring that whether youre here to read or write, you feel right at home.
 
 <br/><b className="text-3xl">Join Us</b><br/>
-Lets create, share, and inspire together. Canvas Blog is more than just a blog—it's a community where ideas come to life and stories are celebrated.
+Lets create, share, and inspire together. Canvas Blog is more than just a blog—it is a community where ideas come to life and stories are celebrated.
 
 Discover your next inspiration with us! 🌟
             </p>

@@ -147,8 +147,8 @@ export default function Post({ params }: { params: Promise<{ id: string }> }) {
           <Image
             src={post.imageUrl}
             alt={post.title}
-            width={300}
-            height={300}
+            width={600}
+            height={400}
             className="w-[500px] h-auto rounded-md mt-10"
           />
         )}

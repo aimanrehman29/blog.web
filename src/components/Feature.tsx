@@ -13,7 +13,7 @@ const Feature = () => {
           comprehensive and up-to-date information on all things technology. Our
           blog covers a wide array of topics, including the latest trends in web
           development, advancements in artificial intelligence, cybersecurity
-          best practices, and in-depth gadget reviews. Whether you're a seasoned
+          best practices, and in-depth gadget reviews. Whether youre a seasoned
           tech professional or a curious enthusiast, Tech Insights Hub provides
           valuable insights, tutorials, and analyses to keep you informed and
           ahead in the ever-evolving tech landscape. Note: This title and
