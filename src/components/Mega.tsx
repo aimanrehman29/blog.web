@@ -110,7 +110,7 @@ const Mega = () => {
     <div className='my-8'>
       <h1 className='text-3xl font-bold text-center my-8 text-black mt-20 '>Explore Insights: Mindfulness, Technology, Lifestyle, Travel, and Development
       </h1>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-10 p-20">
+      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 mt-10 md:p-0 lg:p-20">
   {posts.map((post, index) => (
     <div className="fade-in" key={post.id}>
       <BlogCard post={post} isDarkBackground={index % 2 === 0} />

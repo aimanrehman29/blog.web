@@ -159,8 +159,10 @@ export default function Post({ params }: { params: Promise<{ id: string }> }) {
       </div>
       <div className="p-10">
         <CommentSection postId={post.id} />
-        <AuthorCard />
+        
       </div>
+      <div><AuthorCard /></div>
+
     </div>
   );
 }

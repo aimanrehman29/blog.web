@@ -4,7 +4,7 @@ import { FaLinkedin, FaGithub } from "react-icons/fa"
 
 export default function AuthorCard() {
   return (
-    <div className="bg-white shadow-lg rounded-lg p-6 mt-12 m-20">
+    <div className="bg-white shadow-lg rounded-lg md:p-0 lg:p-6 mt-12 md:m-10 lg:m-20">
       <div className="flex items-center animation-fadeIn">
         <Image
           className="w-20 h-20 rounded-full mr-4 object-cover border-2 border-blue-500"
@@ -20,7 +20,7 @@ export default function AuthorCard() {
           </p>
         </div>
       </div>
-      <p className="mt-4 text-black leading-relaxed">
+      <p className="mt-4 text-black leading-relaxed p-3">
       Frontend Developer and UI/UX Designer crafting seamless user experiences with Figma, React, and Next.js.
       </p>
       <div className="flex justify-center gap-4 mt-6">
